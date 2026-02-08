@@ -132,7 +132,7 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Interactive Developer",
+    name: "Frontend Developer",
     modelPath: "/models/tailwind.glb",
     scale: 50,
     rotation: [0, 0, 0],
