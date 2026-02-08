@@ -11,10 +11,6 @@ const navLinks = [
     name: "Skills",
     link: "#skills",
   },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
-  },
 ];
 
 const words = [
@@ -29,10 +25,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 300, suffix: "+", label: "DSA Problems Solved" },
+  { value: 9.25, suffix: "+", label: "CGPA Achieved" },
+  { value: 94, suffix: "%", label: "Class 12 Boards" },
+  { value: 96, suffix: "%", label: "Class 10 Boards" },
 ];
 
 const logoIconsList = [
@@ -258,24 +254,19 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
-    url: "https://www.instagram.com/",
-    imgPath: "/images/insta.png",
+    name: "leetcode",
+    url: "https://leetcode.com/u/TanishqGaur/",
+    imgPath: "/images/leetcode-dark.svg",
   },
   {
-    name: "fb",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    url: "https://www.x.com/",
-    imgPath: "/images/x.png",
+    name: "github",
+    url: "https://github.com/CoderFTG",
+    imgPath: "/images/github-light.svg",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/",
-    imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/tanishq-gaur-9539a6313/",
+    imgPath: "/images/linkedin.svg",
   },
 ];
 
